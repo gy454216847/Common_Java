@@ -1,0 +1,23 @@
+2020-11-03 09:43:07,752-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 09:43:08,672-[SeleniumAutoFile] INFO [main] core.CommonWeb.type(238) - Type the element with: Java
+2020-11-03 09:43:14,226-[SeleniumAutoFile] INFO [main] core.CommonWeb.quit(200) - Quit the browser
+2020-11-03 09:44:41,120-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 09:44:41,931-[SeleniumAutoFile] INFO [main] core.CommonWeb.type(238) - Type the element with: Java
+2020-11-03 09:44:47,304-[SeleniumAutoFile] INFO [main] core.CommonWeb.quit(200) - Quit the browser
+2020-11-03 09:46:52,454-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 09:46:53,275-[SeleniumAutoFile] INFO [main] core.CommonWeb.type(238) - Type the element with: Java
+2020-11-03 09:46:58,682-[SeleniumAutoFile] INFO [main] core.CommonWeb.quit(200) - Quit the browser
+2020-11-03 09:58:12,772-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 09:58:13,598-[SeleniumAutoFile] INFO [main] core.CommonWeb.type(238) - Type the element with: Java
+2020-11-03 09:58:18,973-[SeleniumAutoFile] INFO [main] core.CommonWeb.quit(200) - Quit the browser
+2020-11-03 11:21:42,714-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 11:21:43,662-[SeleniumAutoFile] INFO [main] core.CommonWeb.type(238) - Type the element with: Java
+2020-11-03 11:30:11,160-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 11:33:22,390-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 11:33:23,279-[SeleniumAutoFile] INFO [main] core.CommonWeb.type(238) - Type the element with: Java
+2020-11-03 11:33:29,028-[SeleniumAutoFile] INFO [main] core.CommonWeb.get_screenshot(145) - Get screenshot
+2020-11-03 11:33:29,048-[SeleniumAutoFile] INFO [main] core.CommonWeb.quit(200) - Quit the browser
+2020-11-03 11:34:53,138-[SeleniumAutoFile] INFO [main] core.CommonWeb.open(156) - Open Browser
+2020-11-03 11:34:54,025-[SeleniumAutoFile] INFO [main] core.CommonWeb.type(238) - Type the element with: Java
+2020-11-03 11:34:59,746-[SeleniumAutoFile] INFO [main] core.CommonWeb.get_screenshot(145) - Get screenshot
+2020-11-03 11:34:59,763-[SeleniumAutoFile] INFO [main] core.CommonWeb.quit(200) - Quit the browser
